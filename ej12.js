@@ -1,4 +1,4 @@
-let num = parseInt(prompt("Escribe un número cualquiera"))
+let num = parseInt(prompt("Escribe un número de 3 cifras"))
 
 if (num > 99 && num < 1000) {
 
